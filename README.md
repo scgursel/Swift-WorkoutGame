@@ -6,7 +6,7 @@ Random Card Workout is an iOS app that displays random cards and prompts the use
 
 - Random card generation: Each time the game is played, a random card will be displayed on the screen.
 - Card deck: The game includes a predefined deck of cards from which the random card is drawn.
-- Touch interaction: The user can draw a card by tapping "Stop" button and then restart with by tapping "Restart"
+- Touch interaction: The user can draw a card by tapping "Stop" button and then restart with by tapping "Restart".
 
 ## Preview
 ![Simulator Screen Recording - iPhone 14 Pro - 2023-06-02 at 05 32 11](https://github.com/scgursel/Swift-WorkoutGame/assets/95382610/4d4c373f-b716-4bfd-b05e-d949115bea77)
